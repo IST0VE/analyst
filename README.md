@@ -5,28 +5,30 @@
 
 При проектировании системы были разработаны следующие документы:
 
-[Performance matrix](https://github.com/IST0VE/analyst/tree/main/matrix)
+[Матрица вовлеченности](https://github.com/IST0VE/analyst/tree/main/matrix)
 
-[Project vision](https://github.com/IST0VE/analyst/tree/main/project_vision)
+[Видение проекта](https://github.com/IST0VE/analyst/tree/main/project_vision)
 
-[Business process model]
+[Модель безнесс процессов]
 
-[Development of user requirements](https://github.com/IST0VE/analyst/tree/main/requirements)
+[Требования пользователей](https://github.com/IST0VE/analyst/tree/main/requirements)
 
-[Domain Modeling](https://github.com/IST0VE/analyst/tree/main/modeling)
+[Диаграмма классов](https://github.com/IST0VE/analyst/tree/main/modeling)
 
-[Development of the database model](https://github.com/IST0VE/analyst/tree/main/database_model)
+[Работа с БД](https://github.com/IST0VE/analyst/tree/main/database_model)
 
-[Technical task]
+[Техническое задание]
 
 [Wireframe](https://github.com/IST0VE/analyst/tree/main/wireframe)
 
-[Integration design](https://github.com/IST0VE/analyst/tree/main/map)
+[Дизайн]
 
-[Specification]
+[Интеграция](https://github.com/IST0VE/analyst/tree/main/map)
 
-[User manual]
+[Спецификация]
 
-[Test program and methodology]
+[Руководство пользователся]
 
-[Resume](https://github.com/IST0VE/analyst/tree/main/resume)
+[ПМИ]
+
+[Резюме](https://github.com/IST0VE/analyst/tree/main/resume)
