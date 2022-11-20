@@ -7,7 +7,7 @@
 
 [Performance matrix](https://github.com/IST0VE/analyst/tree/main/matrix)
 
-[Project vision]
+[Project vision](https://github.com/IST0VE/analyst/tree/main/project_vision)
 
 [Business process model]
 
