@@ -19,7 +19,7 @@
 
 [Technical task]
 
-[Wireframe]
+[Wireframe](https://github.com/IST0VE/analyst/tree/main/wireframe)
 
 [Integration design](https://github.com/IST0VE/analyst/tree/main/map)
 
