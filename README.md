@@ -29,6 +29,6 @@
 
 [Руководство пользователся](https://github.com/IST0VE/analyst/tree/main/user_manual)
 
-[ПМИ]
+[ПМИ](https://github.com/IST0VE/analyst/tree/main/pmi)
 
 [Резюме](https://github.com/IST0VE/analyst/tree/main/resume)
