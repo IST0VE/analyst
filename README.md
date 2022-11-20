@@ -31,4 +31,6 @@
 
 [ПМИ](https://github.com/IST0VE/analyst/tree/main/pmi)
 
+[Ссылка на документы на Google drive](https://drive.google.com/drive/folders/1wKxNMxBswhXPlw7B9TY4xZufJdte_UYd)
+
 [Резюме](https://github.com/IST0VE/analyst/tree/main/resume)
