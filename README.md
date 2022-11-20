@@ -5,7 +5,7 @@
 
 При проектировании системы были разработаны следующие документы:
 
-[Performance matrix]
+[Performance matrix](https://github.com/IST0VE/analyst/tree/main/matrix)
 
 [Project vision]
 
