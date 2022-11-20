@@ -27,7 +27,7 @@
 
 [Спецификация]
 
-[Руководство пользователся]
+[Руководство пользователся](https://github.com/IST0VE/analyst/tree/main/user_manual)
 
 [ПМИ]
 
