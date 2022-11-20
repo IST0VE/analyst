@@ -13,7 +13,7 @@
 
 [Development of user requirements](https://github.com/IST0VE/analyst/tree/main/requirements)
 
-[Domain Modeling]
+[Domain Modeling](https://github.com/IST0VE/analyst/tree/main/modeling)
 
 [Development of the database model]
 
