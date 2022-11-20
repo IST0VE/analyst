@@ -15,7 +15,7 @@
 
 [Domain Modeling](https://github.com/IST0VE/analyst/tree/main/modeling)
 
-[Development of the database model]
+[Development of the database model](https://github.com/IST0VE/analyst/tree/main/database_model)
 
 [Technical task]
 
